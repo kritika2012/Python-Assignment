@@ -3,7 +3,7 @@
 print(4*3/4+4/4+8-2+5/8)
 
 
-Sol)Manuall computing this expression
+Sol)Manually computing this expression
    	  1) 4*3/4+4/4+8-2+5/8
    	  2) {Using the BODMAS}
     	  3) We perform all the Division
