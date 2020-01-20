@@ -1,0 +1,20 @@
+2)In this given expression we have to first compute the value manually then we have to check the value with respect to python code for this expression.
+
+a=4,b=2,x=5,y=4
+result=5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
+
+
+Sol)Manuall computing this expression
+   	  1) 5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
+   	  2) {Using the BODMAS}
+    	  3) We assign the values 
+     	      (5*2*2*5)-(3*4*4*4)-(8*2*2*5)+(10*4*4)
+     	  4) We then perform the Multiplication
+       	      100-192-160+160
+  	  5) We perform the Addition 
+      	      100-192-0
+    	  6) We perform the Subtraction
+                       -92
+     
+ANS=-92
+       
