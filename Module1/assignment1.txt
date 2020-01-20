@@ -1,0 +1,18 @@
+1)In this given expression we have to first compute the value manually then we have to check the value with respect to python code for this expression.
+
+print(4*3/4+4/4+8-2+5/8)
+
+
+Sol)Manuall computing this expression
+   	  1) 4*3/4+4/4+8-2+5/8
+   	  2) {Using the BODMAS}
+    	  3) We perform all the Division
+     	      4*(0.75)+(1.0)+8-2+(0.625)
+     	  4) We then perform the Multiplication
+       	      3.0+(1.0)+8-2+(0.625)
+  	  5) We perform the Addition 
+      	      12.625-2
+    	  6) 10.625
+     
+ANS=10.625
+       
