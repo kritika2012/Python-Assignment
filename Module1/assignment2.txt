@@ -4,7 +4,7 @@ a=4,b=2,x=5,y=4
 result=5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
 
 
-Sol)Manuall computing this expression
+Sol)Manually computing this expression
    	  1) 5*b*b*x-3*a*y*y-8*b*b*x+10*a*y
    	  2) {Using the BODMAS}
     	  3) We assign the values 
