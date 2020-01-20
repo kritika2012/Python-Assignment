@@ -1,5 +1,5 @@
 OUTPUT1) z is not less than a
 
 OUTOUR2)Boston
- 	  New York
+ 	      New York
         
