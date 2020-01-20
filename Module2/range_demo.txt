@@ -1,0 +1,23 @@
+ANSWERS;
+
+1)for x in range(0,6):
+         print("I love  to program")
+
+2)2
+   3
+   4
+   5
+
+3)10
+    9
+    8
+    7
+    6
+
+4) 0
+    100
+    200
+    300
+    400
+    500
+
