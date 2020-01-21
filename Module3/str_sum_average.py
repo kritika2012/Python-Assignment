@@ -8,5 +8,4 @@ for i in range(len(st)-1):
         list.append(int(st[i]))
     else:
         pass
-print(list)
 print("sum={0} and average={1} ".format(sum(list),sum(list)/(len(list))))
