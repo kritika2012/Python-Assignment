@@ -1,3 +1,7 @@
+#this is the code which runs after the gamestarter.py file
+#i.e when we run the gamestarter.py it automatically continues the game 
+#showing us the sum we have recived throughout the game 
+
 import random
 class Card:
     def __init__(self,face,suite,value):
